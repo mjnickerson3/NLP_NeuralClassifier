@@ -23,7 +23,6 @@ The model was trained on a small dataset of positive and negative movie review s
 
 
 ##Example Predictions
-
 - "I love this" -> Positive
 - "This is bad" -> Negative
 - "I do not like this" -> Negative
