@@ -12,7 +12,7 @@ Embedding -> Mean Pooling -> Linear -> ReLU -> Linear -> Output
 
 <img width="532" height="154" alt="image" src="https://github.com/user-attachments/assets/596b7389-64d9-4b86-9d06-625e2a016435" />
  
-##Training
+## Training
 The model was trained on a small dataset of positive and negative movie review sentences using CrossEntropyLoss and the Adam optimizer.
 
 <img width="414" height="148" alt="image" src="https://github.com/user-attachments/assets/8104a63a-3463-46bf-96ed-f99ac2028cda" />
