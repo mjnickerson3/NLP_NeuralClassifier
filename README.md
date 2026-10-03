@@ -22,7 +22,7 @@ The model was trained on a small dataset of positive and negative movie review s
 <img width="414" height="148" alt="image" src="https://github.com/user-attachments/assets/8104a63a-3463-46bf-96ed-f99ac2028cda" />
 
 
-##Example Predictions
+## Example Predictions
 - "I love this" -> Positive
 - "This is bad" -> Negative
 - "I do not like this" -> Negative
