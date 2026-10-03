@@ -11,6 +11,7 @@ Embedding -> Mean Pooling -> Linear -> ReLU -> Linear -> Output
 ### Architecture Screenshot
 
 <img width="532" height="154" alt="image" src="https://github.com/user-attachments/assets/596b7389-64d9-4b86-9d06-625e2a016435" />
+
  
 ## Training 
 
@@ -19,6 +20,7 @@ The model was trained on a small dataset of positive and negative movie review s
 ### Training Output
 
 <img width="414" height="148" alt="image" src="https://github.com/user-attachments/assets/8104a63a-3463-46bf-96ed-f99ac2028cda" />
+
 
 ##Example Predictions
 
@@ -29,6 +31,7 @@ The model was trained on a small dataset of positive and negative movie review s
 ### Prediction Screenshot
 
 <img width="581" height="577" alt="image" src="https://github.com/user-attachments/assets/4ae23aed-500c-4113-be38-4b9512186b29" />
+
 
 ## How My Model Works
 
